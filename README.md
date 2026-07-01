@@ -13,6 +13,7 @@ This project demonstrates how portfolio compliance can be automated by translati
 Although simplified, the workflow reflects the core principles used by institutional asset managers to automate compliance monitoring.
 
 ---
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kayg44/Portfolio-compliance-rule-engine/blob/main/Portfolio_Compliance_Rule_Engine.ipynb)
 
 ## Why I Built This
 
